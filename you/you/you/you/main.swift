@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  test
+//  you
 //
 //  Created by s20171106524 on 2018/9/29.
 //  Copyright © 2018年 s20171106524. All rights reserved.
@@ -9,11 +9,11 @@
 import Foundation
 
 import Cocoa
-
-var i=0
+/*var i=0
 var j=0
+var k=0
 var num=0
-var Sum:[Int]=[4,5,7,8,9,2,3,5,6,7]
+var Sum:[Int]=[7,3,1,8,4,22,55,77,36,74]
 while i < 10
 {
     while j < 9
@@ -30,9 +30,10 @@ while i < 10
     j=0
 }
 i=0
-while j < 10
+while k < 10
 {
-    print(Sum[j])
-    j=j+1
-}
+    print(Sum[k])
+    k+=1
+}*/
+
 
